@@ -16,4 +16,4 @@ management:
         - '*'
 greeting-service:
   greeting: "Olá"
-  default-value: "homologacao"
+  default-value: "homologacao pelo git"
